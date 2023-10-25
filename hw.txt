@@ -76,3 +76,4 @@ modiffied(변경점이 생겼으나 미반영 시)
 staged(commit 명령으로 반영이 진행 될 파일, untracked, modiffied 상태에서 추가된 파일이 해당 상태)
 
 s
+s
